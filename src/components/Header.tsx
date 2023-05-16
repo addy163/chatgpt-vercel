@@ -67,7 +67,7 @@ export default function Header() {
                 </span>
                 <a
                   class="ml-2 <sm:hidden"
-                  href="https://github.com/ourongxing/chatgpt-vercel"
+                  href="https://uuz.ai"
                 >
                   <img
                     alt="GitHub forks badge"
@@ -76,7 +76,7 @@ export default function Header() {
                 </a>
                 <a
                   class="ml-2"
-                  href="https://github.com/ourongxing/chatgpt-vercel/fork"
+                  href="https://dyy.me"
                 >
                   <img
                     alt="GitHub forks badge"
